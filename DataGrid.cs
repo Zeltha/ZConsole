@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.Specialized;
 
-namespace ApplicationAssistant
+namespace ZConsole
 {
     public class DataGrid
     {

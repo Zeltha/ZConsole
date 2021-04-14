@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace ApplicationAssistant
+namespace ZConsole
 {
     public static class Console
     {
