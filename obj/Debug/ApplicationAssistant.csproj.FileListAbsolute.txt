@@ -1,6 +1,0 @@
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\obj\Debug\ApplicationAssistant.csprojAssemblyReference.cache
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\obj\Debug\ApplicationAssistant.csproj.CoreCompileInputs.cache
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\bin\Debug\ApplicationAssistant.dll
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\bin\Debug\ApplicationAssistant.pdb
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\obj\Debug\ApplicationAssistant.dll
-F:\Tom\Documents\PRojects\GdomainUpdateConsole\ApplicationAssistant\obj\Debug\ApplicationAssistant.pdb
